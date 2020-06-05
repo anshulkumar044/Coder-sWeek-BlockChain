@@ -1,0 +1,90 @@
+
+ @ Explaining the BlockChain Technology to a layman
+
+
+   Blockchain is like the internet. It connects people. Unlike the internet, it isn’t controlled by others.     Blockchain is public & no one actually owns it.
+
+  Unlike the internet, there are no blockchain providers, there are only blockchain developers. Furthermore, blockchain  is useless without the internet. If the blockchain connects the world, the internet connects the blockchain to the     world.
+  
+
+  How blockchain work is an integral part of how cryptocurrency works.
+
+  Blockchain is, as the name suggests, a chain of blocks. Each block contains a certain amount of information depending    on the blocksize. Blocksize is nothing but the maximum size of data a single block can store.
+
+  Each block is connected to two other blocks in chronological order. Which becomes a chain that anyone in the world with   an internet connection can access.
+
+   The data inside a block would be records of cryptocurrency transactions from across the globe. Every blockchain has   certain blocksize which determines the number of transactions that can reside inside a block.
+
+  You can also imagine a block as an excel file which contains records of transactions from across the globe. The    difference is, a block has a fixed upper-limit in terms of size, and an excel sheet doesn’t.
+
+  The reason why blockchain is transforming the world is because of its core idea, which is eliminating the middlemen and   bring the users to power.
+
+ So far, we’ve been living under the burden of middlemen who, in the name service charge has looted us for decades now.   
+
+  #Characteristics of blockchain
+ 
+   1.Distributed ledgers - Millions of copies of a database that is continuously updated by anybody connected to a network.Imagine a giant spreadsheet that everybody has access to via the internet. The spreadsheet contains digital records of different things (like the value of a currency, files like PDFs or images, or even a historical list of different transactions). Whenever the spreadsheet is modified on one computer it is replicated, shared, and synchronized so that the changes are saved to all the other computers connected to the network.
+
+   2.Peer-to-peer network - A network of computers that lets devices combine their power to complete more tasks faster.
+
+   3.Cryptographic Hash Function - A type of encryption software.A hash takes a message (like the record of a transaction), randomly scrambles it into funny looking code, and makes it virtually impossible to decipher without a signature or key (an instruction that lets the right people unscramble the message again).
+
+   4.Immutability - a security feature that makes it impossible to change or alter data without permission.
+   
+   5.Pseudonymity - Let’s people decide whether they want to remain anonymous or share their identity with others on the    network.
+
+ #Applications of blockchain technology
+
+      *Smart contracts: Smart contracts are the pre-defined functions that are triggered when specified conditions are   met.  Misusing the anonymity, people from the criminal background are using cryptocurrency to make payment of their   illegal  activities and goods. It is the smart contracts that keep it in check while still maintaining the very essence   of the  blockchain. Smart contracts are the lawyers of blockchain space. Smart contracts not only govern the blockchain   to avoid    illegal activities but it also not process such transaction(s) too.
+ 
+       *Shared ecosystem: Companies like Uber and Airbnb are to grow exponentially in this decentralization era. Shared poolingoptions while taking a ride offered by Uber is already a big hit for the company. Similarly, Airbnb lets you share your unused real estate space/property and earn from it yet keep it under your control. The peer-to-peer payment network will surely prove to be a plus point in such ecosystems.
+      
+       *Crowdfunding: Raising funds to feed an idea and make it big is one of the biggest challenges for an entrepreneur.   What if we tell you that you don’t have to rely on venture capitalists to agree to fund your idea, you don’t have to be   afraid of your idea being stolen. It’s better than ever. In 2016, Ethereum ran an experiment in this regards. And   Ethereum based DAO, raised a whopping $200 million in just two months. Sure, Ethereum is brand now, but it’s not that   you cannot raise funds using blockchain.
+       
+       *Governance: This is something that will further change the course of history. The government we want to rule us   will be chosen exactly the way we want it. Blockchain will make the election process fully transparent, publicly   accessible and justifiable. Since the votes are publicly accessible, there’s a little to no chance of forging or   tampering the results to make personal benefits. Ethereum smart contracts can be used to automate the process, also it   will ensure there’s strictly one vote from one user ID, no matter what.
+ 
+       *Storage: Ever used torrent? It was a revolutionary idea of decentralizing file storage across the globe and make   the  file accessible to anyone. The data is distributed across the network and yet be accessible as a whole. The bits    and pieces of a particular file is available on the network, whenever one wants to access it the network brings those   bits and pieces connecting the nodes and making it available. Moreover, there’s point of attack. Even if unauthorized   access is made, they will only have one fraction of the whole thing. It’s that amazing.
+ 
+      *Copyrights of intellectual properties: Accessing information has been revolutionized since the internet happened.   The Internet has been an amazing place for marketers to market their business. Marketing is nothing without content and   content that are copyrighted are also on the web. Therefore, there are chances of losing the credit for that copyrighted  content. Not anymore. Blockchain, along with smart contracts can now make sure your copyright content stays yours.
+
+ 
+
+
+Ethereum
+
+ Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code  that controls the money, and build applications accessible anywhere in the world. 
+
+ #How is Ethereum different to Bitcoin?
+ 
+ 1.Ethereum’s block time is shorter
+ 2.Ethereum has smaller blocks
+ 3.The Ethereum Virtual Machine can run smart contracts
+ 4.ETH token issuance
+ 5.Future changes to ETH generation
+ 6.Mining rewards
+ 7.Other parts to Ethereum: Swarm and Whisper
+
+ #Ethereum concepts
+ 
+  Smart contracts
+  a.Accounts
+  b.Uncles and Orphans: blocks that don’t quite make it
+  c.Gas and Gas Price
+  d.ETH Units
+  e.Smart Contract languages: Solidity / Serpent, LLL
+  f.Ethereum software: geth, eth, pyethapp
+ 
+
+
+
+
+%%Do you think that BlockChain is a technology that can revolutionize the world?
+
+  Yes,it will definitely revolutionize the world.
+  Because
+  *The evolution from the relational database to the decentralized database will make evolution easier.
+   *We will be able to send money quicker.
+   *We will Buy house easily.
+   *The products we buy will be genuine.
+   *Health problems will be easier to tackle
+   *We will have better reach and ability to earn money
