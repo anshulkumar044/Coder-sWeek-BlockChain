@@ -1,0 +1,112 @@
+    @@ The features of the Ethereum BlockChain and how it is different from Bitcoin @@
+
+
+ What is Ethereum?
+
+
+#Ethereum is the foundation for a new era of the internet:
+
+*An internet where money and payments are built in.
+
+*An internet where users can own their data, and your apps don’t spy and steal from you.
+
+*An internet where everyone has access to an open financial system.
+
+*An internet built on neutral, open-access infrastructure, controlled by no company or person.
+
+
+ $ Like other blockchains, Ethereum has a native cryptocurrency called Ether (ETH). ETH is digital money. If you’ve heard of Bitcoin, ETH has many of the same features. It is purely digital, and can be sent to anyone anywhere in the world instantly. The supply of ETH isn’t controlled by any government or company - it is decentralized, and it is scarce. People all over the world use ETH to make payments, as a store of value, or as collateral.
+
+
+ #Ethereum Features
+
+*Ether: This is Ethereum’s cryptocurrency.
+
+*Smart contracts: Ethereum allows the development and deployment of these.
+
+*Ethereum Virtual Machine: Ethereum provides the underlying technology—the architecture and the software—that understands smart contracts and allows you to interact with it.
+
+*Decentralized applications (Dapps): Ethereum allows you to create consolidated applications, called decentralized applications. A decentralized application is called a Dapp (also spelled DAPP, App, or DApp) for short.
+
+*Decentralized autonomous organizations (DAOs): Ethereum allows you to create these for democratic decision-making.
+
+
+
+Let’s discuss each of these features in more detail.
+
+
+1. Ether
+Ether (ETH) is Ethereum’s cryptocurrency. It is the fuel that runs the network. It is used to pay for the computational resources and the transaction fees for any transaction executed on the Ethereum network. Like Bitcoins, ether is a peer-to-peer currency. Apart from being used to pay for transactions, ether is also used to buy gas, which is used to pay for the computation of any transaction made on the Ethereum network.
+
+Also, if you want to deploy a contract on Ethereum, you will need gas, and you would have to pay for that gas in ether. So gas is the execution fee paid by a user for running a transaction in Ethereum. Ether can be utilized for building decentralized applications, building smart contracts, and making regular peer-to-peer payments.
+
+
+2. Smart Contracts
+Smart contracts are revolutionizing the way how traditional contracts worked, which is why you need to know about them in this Ethereum tutorial. A smart contract is a simple computer program that facilitates the exchange of any valuable asset between two parties. It could be money, shares, property, or any other digital asset that you want to exchange. Anyone on the Ethereum network can create these contracts. The contract consists primarily of the terms and conditions mutually agreed on between the parties (peers).
+
+a) Smart Contracts Vs. Traditional Contract Systems
+In conventional contract systems, you sign an agreement, then you trust and hire a third party for its execution. The problem is that in this type of process, data tampering is possible. With smart contracts, the agreement is coded in a program. A centralized authority does not verify the result; it is confirmed by the participants on the Ethereum blockchain-based network. Once a contract is executed, the transaction is registered and cannot be altered or tampered, so it removes the risk of any data manipulation or alteration.
+
+EVM is a runtime compiler to execute a smart contract. Once the code is deployed on the EVM, every participant on the network has a copy of the contract. When Elsa submits the work on Ethereum for evaluation, each node on the Ethereum network will evaluate and confirm whether the result given by Elsa has been done as per the coding requirements, and once the result is approved and verified, the contract worth $500 will be self-executed, and the payment will be paid to Elsa in ether. Zack’s account will be automatically debited, and Elsa will be credited with $500 in ether.
+
+
+3. Ethereum Virtual Machine
+EVM, as mentioned above in this Ethereum tutorial, is designed to operate as a runtime environment for compiling and deploying Ethereum-based smart contracts. EVM is the engine that understands the language of smart contracts, which are written in the Solidity language for Ethereum. EVM is operated in a sandbox environment—basically, you can deploy your stand-alone environment, which can act as a testing and development environment, and you can test your smart contract (use it) “n” number of times, verify it, and then once you are satisfied with the performance and the functionality of the smart contract, you can deploy it on the Ethereum main network.
+
+Any programming language in the smart contract is compiled into the bytecode, which the EVM understands. This bytecode can be read and executed using the EVM. One of the most popular languages for writing a smart contract in Solidity. Once you write your smart contract in Solidity, that contract gets converted into the bytecode and gets deployed on the EVM. And thereby EVM guarantees security from cyberattacks.
+
+a) How Does EVM Work?
+Suppose person A wants to pay person B 10 ethers. The transaction will be sent to the EVM using a smart contract for a fund transfer from A to B. To validate the transaction; the Ethereum network will perform the proof-of-work consensus algorithm.
+
+The miner nodes on Ethereum will validate this transaction—whether the identity of A exists or not, and if A has the requested amount to transfer. Once the transaction is confirmed, the ether will be debited from A’s wallet and will be credited to B’s wallet, and during this process, the miners will charge a fee to validate this transaction and will earn a reward.
+
+All the nodes on the Ethereum network execute smart contracts using their respective EVMs.
+
+b) Proof of Work
+Every node in the Ethereum network has:
+
+The entire history of all the transactions—the entire chain
+The history of the smart contract, which is the address at which the smart contract is deployed, along with the transactions associated with the smart contract
+The handle to the current state of the smart contract
+The goal of the miners on the Ethereum network is to validate the blocks. For each block of a transaction, miners use their computational power and resources to get the appropriate hash value by varying the nonce. The miners will vary the nonce and pass it through a hashing algorithm—in Ethereum, it is the Ethash algorithm.
+
+When the proof of work is solved, the result is broadcast and shared with all the other nodes to update their ledger. If other nodes accept the hashed block as valid, then the block gets added to the Ethereum main blockchain, and as a result, the miner receives a reward, which as of today stands at three ethers. Plus the miner gets the transaction fees that have been generated for verifying the block. All the transactions that are aggregated in the block—the cumulative transaction fees associated with all the transactions are also given as a reward to the miner.
+
+c) Proof of Stake
+In Ethereum, a process called proof of stake is also under development. It is an alternative to proof of work and is meant to be a solution to minimize the use of expensive resources spent on mining using proof of work. In proof of stake, the miner—who is the validator—can validate the transactions based on the number of crypto coins he or she holds before actually starting the mining. So based on the accumulation of crypto coins the miner has beforehand, he or she has a higher probability of mining the block. However, proof of stake is not widely used as of now compared to proof of work.
+
+d) Gas
+Just like we need fuel to run a car, we need gas to run applications on the Ethereum network. To perform any transaction within the Ethereum network, a user has to make a payment—shell out ethers—to get a transaction done, and the intermediary monetary value is called gas. On the Ethereum network, gas is a unit that measures the computational power required to run a smart contract or a transaction. So if you have to do a transaction that updates the blockchain, you would have to shell outgas, and that gas costs ethers.
+
+In Ethereum, the transaction fees are calculated using a formula (see screenshot below). For every transaction, there is gas and its correlated gas price. The amount of gas required to execute a transaction multiplied by the gas price equals the transaction fees. “Gas limit” refers to the amount of gas used for the computation and the amount of ether a user is required to pay for the gas.
+
+
+4. Decentralized Applications (Dapps)
+
+DAPP
+If we transform this application into a decentralized application when you log in, the same web application gets rendered, but it calls a smart contract-based API to fetch the information from the blockchain network. So the API is replaced by a smart contract interface, and the smart contract will bring the data from the blockchain network, which is its backend.
+
+That blockchain network is not a centralized database; it’s a decentralized network in which the participants of the network (the miners) validate (verify) all the transactions that are happening using the smart contract on the blockchain network. So any transaction or action happening on a Twitter-type application that has now been transformed will be a decentralized transaction.
+
+5. Decentralized Autonomous Organizations (DAOs)
+A DAO is a digital organization that operates without hierarchical management; it works in a decentralized and democratic fashion. So basically a DAO is an organization in which the decision-making is not in the hands of a centralized authority but preferably in the hands of certain designated authorities or a group or designated people as a part of an authority. It exists on a blockchain network, where it is governed by the protocols embedded in a smart contract, and thereby, DAOs rely on smart contracts for decision-making—or, we can say, decentralized voting systems—within the organization. So before any organizational decision can be made, it has to go through the voting system, which runs on a decentralized application.
+
+
+
+##What is the Difference Between Ethereum and Bitcoin?
+
+**Bitcoin
+The easiest way to define Bitcoin is to call it a “digital dollar.” That’s really all it is?—?minus all the formal regulations that come with a bank (which is what makes it such a disruptive concept). It’s not a technology. It’s not a company. It’s your money, held in a digital form.
+
+Some people buy Bitcoin because they want to store their money somewhere other than a bank. Some buy Bitcoin as an investment, believing that its price a few months or years from now will be substantially higher than it is today. And some people purchase Bitcoin as a means of investing in companies that raise money through an ICO, since equity in those companies cannot be purchased with traditional currency. You can only purchase tokens with Bitcoin or Ether, which is Ethereum’s cryptocurrency.
+
+**Ethereum
+Ethereum is another cryptocurrency, and one many people see as potentially overtaking Bitcoin as the dominant coin in the market.
+
+What makes Ethereum different is its technology, not the fact that it’s yet another cryptocurrency. Ethereum’s coin value is referred to as “Ether,” and just like Bitcoin is bought and sold, and used by investors to buy into ICO opportunities.
+
+
+*****The difference between Ethereum and Bitcoin is the fact that Bitcoin is nothing more than a currency, whereas Ethereum is a ledger technology that companies are using to build new programs. Both Bitcoin and Ethereum operate on what is called “blockchain” technology, however Ethereum’s is far more robust. If Bitcoin was version 1.0, Ethereum is 2.0, allowing for the building of decentralized applications to be built on top of it.*****
+
+
+*****Bitcoin uses SHA-256, and Ethereum uses Ethash. The average time taken on Bitcoin for mining a block is 10 minutes, whereas on Ethereum it is 12 to 15 seconds. As of today, the mining reward for Bitcoin is 12.5 bitcoins; for Ethereum it’s three ethers plus the transaction fee—the cumulative transaction fees of all the transactions of a block. As of April 10, 2019, the value of 1 bitcoin is $5249.03, whereas one ether is $180.89.*****
